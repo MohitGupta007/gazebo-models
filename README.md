@@ -5,6 +5,6 @@ Copy the models to your Gazebo model path. In my case the file path is "/usr/sha
 
 To use the urban city world, open the terminal and navigate to the folder containing the urban_city.world file.
 To launch the file in Gazebo:
-'''
+```
 $ gazebo urban_city.world
-'''
+```
